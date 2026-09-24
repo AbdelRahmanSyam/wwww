@@ -1,0 +1,56 @@
+[
+  {
+    "id": "undergraduate-handbook-2023",
+    "title": "UAEU Undergraduate Student Handbook 2023",
+    "url": "https://uaeu.ac.ae/en/docs/uaeu-undergraduate-student-handbook2023-english.pdf",
+    "publication_date": "2023",
+    "effective_date": "2023-2024",
+    "status": "review",
+    "notes": "Official UAEU PDF. Confirm it remains applicable before marking current."
+  },
+  {
+    "id": "undergraduate-handbook-2022",
+    "title": "UAEU Undergraduate Student Handbook 2022",
+    "url": "https://www.uaeu.ac.ae/en/docs/uaeu-undergraduate-student-handbook-2022.pdf",
+    "publication_date": "2022",
+    "effective_date": "2022-2023",
+    "status": "review",
+    "notes": "Official UAEU PDF retained as a review candidate; do not mix with current policy."
+  },
+  {
+    "id": "admissions-enrollment-ae06",
+    "title": "Admissions and Enrollment Policies Manual (AE-06)",
+    "url": "https://www.uaeu.ac.ae/en/about/policies/admissions_and_enrollment/pol-ae_06_en.pdf",
+    "publication_date": "2014-03-02",
+    "effective_date": "2014-03-02",
+    "status": "review",
+    "notes": "Official legacy policy; verify against UAEU Catalog before use."
+  },
+  {
+    "id": "undergraduate-program-policies",
+    "title": "Undergraduate Programs Policies Manual",
+    "url": "https://www.uaeu.ac.ae/en/dvcaa/aau/pdf/undergraduate_programs_policies.pdf",
+    "publication_date": "2014-02-02",
+    "effective_date": "2014-02-02",
+    "status": "review",
+    "notes": "Official legacy policy; verify before promotion to current."
+  },
+  {
+    "id": "graduate-program-template",
+    "title": "Graduate Program Template",
+    "url": "https://www.uaeu.ac.ae/en/dvcaa/aau/pdf/graduate_program_template.pdf",
+    "publication_date": "2015-10-13",
+    "effective_date": "2015-10-13",
+    "status": "review",
+    "notes": "Official PDF containing graduate-program requirements; check current catalogue policy before use."
+  },
+  {
+    "id": "msc-human-nutrition-handbook-2023-2024",
+    "title": "Master of Science in Human Nutrition Student Handbook 2023/2024",
+    "url": "https://www.uaeu.ac.ae/en/cmhs/pdf/msc_student_handbook.pdf",
+    "publication_date": "2023",
+    "effective_date": "2023-2024",
+    "status": "review",
+    "notes": "Official programme handbook. Relevant only to this named programme and academic year."
+  }
+]
